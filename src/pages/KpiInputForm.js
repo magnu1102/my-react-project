@@ -127,6 +127,10 @@ function KpiInputForm() {
       <button className="generate-button" onClick={copyHtmlToClipboard}>Generate & Copy HTML</button>
       <h2 style={{ textAlign: 'center', marginTop: '2rem' }}>Live Preview</h2>
       <div className="live-preview" style={{ marginTop: '1rem', padding: '1rem', border: '1px solid #ddd', borderRadius: '10px', boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)' }} dangerouslySetInnerHTML={{ __html: generatedHtml }} />
+      <div style={{ marginTop: '2rem', padding: '1rem', borderTop: '1px solid #ddd' }}>
+        <h2>License Agreement</h2>
+        <pre style={{ whiteSpace: 'pre-wrap', fontSize: '0.9rem' }}>{licenseText}</pre>
+      </div>
     </div>
   );
 }
