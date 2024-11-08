@@ -3,10 +3,10 @@ Licensor: Magnus Bjørge Almås
 Company: Wolt Norway AS
 
 1. Grant of License
-The Licensor grants the Company a non-exclusive, non-transferable, revocable license to use the Tool solely for internal purposes and only during the period of the Licensor's employment with the Company.
+The Licensor grants the Company a non-exclusive, non-transferable, revocable license to use the Tool solely for internal purposes and only until the date described in "2. Termination".
 
 2. Termination
-This license shall terminate automatically upon the end of the Licensor’s employment with the Company. Upon termination, the Company agrees to cease all use of the Tool and delete all copies within its systems.
+This license shall terminate automatically on the 1st of June 2025. Upon termination, the Company agrees to cease all use of the Tool and delete all copies within its systems.
 
 3. Restrictions
 The Company may not modify, distribute, sublicense, or transfer the Tool without explicit written permission from the Licensor.
