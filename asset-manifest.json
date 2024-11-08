@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.e0038032.css",
-    "main.js": "/repository-name/static/js/main.ca12642b.js",
-    "static/js/453.bf5002b9.chunk.js": "/repository-name/static/js/453.bf5002b9.chunk.js",
-    "static/media/default_pfp.png": "/repository-name/static/media/default_pfp.3bf4d0d764997b9a46b2.png",
-    "index.html": "/repository-name/index.html",
-    "main.e0038032.css.map": "/repository-name/static/css/main.e0038032.css.map",
-    "main.ca12642b.js.map": "/repository-name/static/js/main.ca12642b.js.map",
-    "453.bf5002b9.chunk.js.map": "/repository-name/static/js/453.bf5002b9.chunk.js.map"
+    "main.css": "/WoltToolkit/static/css/main.e0038032.css",
+    "main.js": "/WoltToolkit/static/js/main.de392767.js",
+    "static/js/453.bf5002b9.chunk.js": "/WoltToolkit/static/js/453.bf5002b9.chunk.js",
+    "static/media/default_pfp.png": "/WoltToolkit/static/media/default_pfp.3bf4d0d764997b9a46b2.png",
+    "index.html": "/WoltToolkit/index.html",
+    "main.e0038032.css.map": "/WoltToolkit/static/css/main.e0038032.css.map",
+    "main.de392767.js.map": "/WoltToolkit/static/js/main.de392767.js.map",
+    "453.bf5002b9.chunk.js.map": "/WoltToolkit/static/js/453.bf5002b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0038032.css",
-    "static/js/main.ca12642b.js"
+    "static/js/main.de392767.js"
   ]
 }
