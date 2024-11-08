@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import defaultProfileImage from '../components/default_pfp.png';
-import '../App.css';
+import './KpiInputForm.css';
 
 function KpiInputForm() {
   const [customerData, setCustomerData] = useState(Array(3).fill({ name: '', imageUrl: '', metricValue: '', showCrown: false, flag: "" }));

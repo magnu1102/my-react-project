@@ -70,6 +70,28 @@ h3 {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
+/* Example adjustments */
+.form-section {
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+
 /* Input Styling */
 input[type="text"] {
   display: block;
